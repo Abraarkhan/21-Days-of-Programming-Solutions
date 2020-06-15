@@ -21,3 +21,4 @@ int main()
      printf("%f",(-b-s)/(2*a));
 	}
 	return 0; 
+}
